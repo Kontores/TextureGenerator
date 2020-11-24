@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29509.3
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TXGen2", "TXGen2\TXGen2.csproj", "{4E501C2C-92A8-4C81-83C2-27F932393098}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TXGen.GUI", "TXGen.GUI\TXGen.GUI.csproj", "{2CB3C41E-5121-4C85-A317-7F7F86AA588D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TXGen.Service", "TXGen.Service\TXGen.Service.csproj", "{E468F36A-56A1-4483-88C3-2E2CEF24E7A5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4E501C2C-92A8-4C81-83C2-27F932393098}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4E501C2C-92A8-4C81-83C2-27F932393098}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4E501C2C-92A8-4C81-83C2-27F932393098}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4E501C2C-92A8-4C81-83C2-27F932393098}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2CB3C41E-5121-4C85-A317-7F7F86AA588D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2CB3C41E-5121-4C85-A317-7F7F86AA588D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2CB3C41E-5121-4C85-A317-7F7F86AA588D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2CB3C41E-5121-4C85-A317-7F7F86AA588D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E468F36A-56A1-4483-88C3-2E2CEF24E7A5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E468F36A-56A1-4483-88C3-2E2CEF24E7A5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E468F36A-56A1-4483-88C3-2E2CEF24E7A5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E468F36A-56A1-4483-88C3-2E2CEF24E7A5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {530502F6-8AA8-4BE1-99D0-CF34E28C737E}
+	EndGlobalSection
+EndGlobal
